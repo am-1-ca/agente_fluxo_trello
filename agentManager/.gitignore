@@ -1,2 +1,30 @@
+# ambiente
 .env
 .env.*
+
+# virtual env
+venv/
+.venv/
+env/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# banco/local
+*.db
+*.sqlite3
+
+# ADK
+.adk/
+
+# logs
+*.log
+
+# sistema
+Thumbs.db
+
+# editor
+.vscode/
